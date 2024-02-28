@@ -1,0 +1,7 @@
+NO_PROXY="localhost,127.0.0.1" 
+HTTP_PROXY="http://proxy-chain.intel.com:911" 
+HTTPS_PROXY="http://proxy-chain.intel.com:912" 
+http_proxy="http://proxy-chain.intel.com:911" 
+https_proxy="http://proxy-chain.intel.com:912" 
+FTP_PROXY="http://proxy-chain.intel.com:911" 
+ALL_PROXY="http://proxy-chain.intel.com:911"
